@@ -1,0 +1,60 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+span {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+input#wage {
+    border: 2px solid #1abc9c;
+    border-radius: 4px 0 0 4px;
+    padding: 12px;
+    width: 200px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input#wage:hover {
+    background-color: #1abc9c;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+nput#wage:active {
+    border: none;
+}
+
+button#calculateBuckets {
+    background-color: #1abc9c;
+    border: 2px solid #1abc9c;
+    border-radius: 0 4px 4px 0;
+    padding: 12px 5px;
+    /* height: 52px; */
+    font-size: 1rem;
+    color: #ffffff;
+}
+
+button#calculateBuckets:hover {
+    background-color: #18997f;
+    transition: eas-in-out 0.8s;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 10px 0 10px 0;
+}
+
+ul li:hover {
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+
+ul li:nth-last-child(1){
+    font-weight: bold;
+}
