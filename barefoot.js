@@ -17,7 +17,6 @@ function calculateBuckets (){
     console.log("Fire Extinguisher: $" + fireExtinguisherBucket.toFixed(0));
     console.log("Smile Bucket: $" + smileBucket.toFixed(0));
     console.log("Total: $" + total);
-
 }
 
 var input = document.getElementById('wage');
