@@ -4,7 +4,7 @@ Inspired by the Barefoot Investor (https://barefootinvestor.com/)
 
 ## Getting Started
 
-false;
+Enter Your Weekly Income -- into the main Input Field and press "calculate" to get the Bucket Percentages that Scott Pope talks about in the book.
 
 ### Prerequisites
 
@@ -20,7 +20,7 @@ Vanilla JS; <HTML> & {CSS};
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Currently not advised;
 
 ## Authors
 
